@@ -1,0 +1,3 @@
+# RAG App with LangChain
+
+This project demonstrates how to build a Retrieval-Augmented Generation (RAG) application using LangChain, integrating NLP and AI technologies like OpenAI, Chroma, and text chunking to process and generate answers based on large documents. It involves loading markdown documents, splitting them into smaller chunks, and storing them in a Chroma vector database, where the data is indexed and ready for future retrieval. The setup includes installing dependencies, creating a `.env` file for API keys, and running a script to process and store document embeddings.
